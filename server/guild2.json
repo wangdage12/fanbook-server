@@ -1,0 +1,1716 @@
+{"100001":{
+    "guild_id": "387575305969086464",
+    "name": "Fanbook创作者中心",
+    "icon": "https://fb-cdn.fanbook.mobi/fanbook/app/files/chatroom/circleIcon/d8e1806b91abd0c473c5348be70b2b9e",
+    "description": "让热爱有价值！",
+    "vanity_url_code": "",
+    "owner_id": "393233906154876928",
+    "permissions": 73280,
+    "channel_lists": [
+      "408537706230972416",
+      "527383748518719488"
+    ],
+    "invisible_channel_lists": null,
+    "system_channel_id": "387575306023600130",
+    "system_channel_flags": 0,
+    "system_channel_type": 2,
+    "system_channel_message": false,
+    "system_channel_message_pic": "{\"template\":0,\"useCustomPicture\":true,\"customPicture\":\"https://fb-cdn.fanbook.mobi/fanbook/app/files/chatroom/image/09cd5617ae9558bcee5f6f30198f142a.jpg\"}",
+    "banner": "https://fb-cdn.fanbook.mobi/fanbook/app/files/chatroom/image/d9c7d61bd7c2872467095760da6a0729.jpg",
+    "authenticate": 2,
+    "authenticate_params": [],
+    "unreadMark": null,
+    "feature_list": [
+      "GUEST"
+    ],
+    "welcome": [
+      "399894540921614338"
+    ],
+    "welcome_switch": "1",
+    "circle_display": true,
+    "emojis": [
+
+    ],
+    "bot_receive": [
+      "136762723340914688",
+      "179509308331917312",
+      "222234839762337792",
+      "237779111534133248",
+      "256899212615090176",
+      "269376123454881792",
+      "273383374205222914",
+      "337422812224421888",
+      "337497635000680448",
+      "360330261788884992",
+      "368332684671320064",
+      "374546854160891904",
+      "387589165371359232",
+      "396242801081188352",
+      "399815960074125312",
+      "400195056151035904",
+      "410994320368205824",
+      "454180438270038016",
+      "519351836726382592",
+      "519353085223882752",
+      "519751358057132032"
+    ],
+    "member_count": 74728,
+    "circle_style": 0,
+    "guild_push_threshold": 1000,
+    "virtual_display": 0,
+    "virtual_parameters": "",
+    "verification_parameters": "{\"url\":\"https:\\/\\/open.fanbook.mobi\\/mp\\/138519745866498048\\/368318954306932736\\/login?fb_redirect&open_type=mp\",\"title\":\"\\u5b8c\\u6210\\u521b\\u4f5c\\u8005\\u9a8c\\u8bc1\\uff0c\\u5f00\\u542f\\u4f60\\u7684\\u521b\\u4f5c\\u8005\\u4e4b\\u8def\\u5427\\uff01\"}",
+    "verification_auto_remove": 0,
+    "verification_level": 2,
+    "admin_permission": "648",
+    "normal_role_id": "522653657246990336",
+    "normal_permission": "3743233",
+    "guild_member_dm_friend_setting": {
+      "dm_switch": 1,
+      "dm_allow_roles": [
+        "451336076745768960",
+        "451336076749963264"
+      ],
+      "friend_switch": 1,
+      "friend_allow_roles": [
+        "451336076745768960",
+        "451336076749963264"
+      ]
+    },
+    "activity_calendar": 1,
+    "colling_time": 0,
+    "banner_config": {},
+    "joined_at": "1657628041744",
+    "assist_display": 1,
+    "icon_dynamic": {
+      "link_default": "https://fb-cdn.fanbook.mobi/fanbook/app/files/chatroom/circleIcon/d8e1806b91abd0c473c5348be70b2b9e",
+      "used": 0
+    },
+    "template_id": 0,
+    "banned_level": 0,
+    "guild_topic_display": 0,
+    "topic_list": null,
+    "is_private": 1,
+    "announce_display": 1,
+    "is_new_permission": 1,
+    "hierarchy": 0,
+    "point": 12,
+    "post_reward": 0,
+    "upload_files": 0,
+    "post_multi_para": 1,
+    "related_application": 0,
+    "related_application_list": [],
+    "guild_search_config": 0,
+    "guild_search_allow": 0,
+    "guild_set_banner": 1,
+    "guild_role_group": 0,
+    "guild_live_allow": 0,
+    "user_pending": true,
+    "verification_remove_time": 0,
+    "notification_channel_id": "387575306023600128",
+    "channels": [
+      {
+        "channel_id": "387575306023600130",
+        "guild_id": "387575305969086464",
+        "name": "【迎新】✨欢迎大佬✨",
+        "topic": "被你发现了，欢迎加入哇~",
+        "parent_id": "399852648250998784",
+        "type": 0,
+        "position": 2,
+        "overwrite": [
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 2048,
+            "id": "387575305969086464",
+            "channel_id": "387575306023600130",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 276825361,
+            "deny": 0,
+            "id": "387594122443096064",
+            "channel_id": "387575306023600130",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "388200068173275136",
+            "channel_id": "387575306023600130",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 2048,
+            "id": "402377484852527104",
+            "channel_id": "387575306023600130",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 277032273,
+            "deny": 0,
+            "id": "411032231943864320",
+            "channel_id": "387575306023600130",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": true,
+        "user_limit": 10,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "387575306023600131",
+        "guild_id": "387575305969086464",
+        "name": "闲聊",
+        "topic": "今天和大家打招呼了吗？",
+        "parent_id": "399852648250998784",
+        "type": 0,
+        "position": 2,
+        "overwrite": [],
+        "pending_user_access": false,
+        "user_limit": 12,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "387575306023600133",
+        "guild_id": "387575305969086464",
+        "name": "🎤 | 语音聊天室",
+        "topic": "",
+        "parent_id": "399852648250998784",
+        "type": 1,
+        "position": 1,
+        "overwrite": [
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 0,
+            "id": "387575305969086464",
+            "channel_id": "387575306023600133",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "402377484852527104",
+            "channel_id": "387575306023600133",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "466123864460877824",
+            "channel_id": "387575306023600133",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": 12,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "active": "0",
+        "live_active": 0
+      },
+      {
+        "channel_id": "388288359174242304",
+        "guild_id": "387575305969086464",
+        "name": "🤣 | 表情包产出",
+        "topic": "",
+        "parent_id": "387580546328309760",
+        "type": 0,
+        "position": 0,
+        "overwrite": [],
+        "pending_user_access": false,
+        "user_limit": 10,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "395112097563815936",
+        "guild_id": "387575305969086464",
+        "name": "【官方作者团】",
+        "topic": "",
+        "parent_id": "399852648250998784",
+        "type": 0,
+        "position": 0,
+        "overwrite": [
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "374546854160891904",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "387316439356289024",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 142400,
+            "id": "387575305969086464",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "387575306023612416",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "387582764725051394",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "387582877497303040",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 16,
+            "deny": 0,
+            "id": "388200068173275136",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 68672,
+            "deny": 0,
+            "id": "396177323512049664",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 0,
+            "id": "415057708459229184",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 68672,
+            "deny": 0,
+            "id": "416531682368159744",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 3136,
+            "deny": 0,
+            "id": "697716682856456192",
+            "channel_id": "395112097563815936",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": 10,
+        "description": null,
+        "is_private": 1,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": [
+          {
+            "374546854160891904": "活动中心"
+          },
+          {
+            "396242801081188352": "如何正确投稿"
+          }
+        ],
+        "live_active": 0
+      },
+      {
+        "channel_id": "399852648250998784",
+        "guild_id": "387575305969086464",
+        "name": "———|创作者驿站|———",
+        "topic": "",
+        "parent_id": "0",
+        "type": 4,
+        "position": 0,
+        "overwrite": [],
+        "pending_user_access": false,
+        "user_limit": null,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "408537546662871040",
+        "guild_id": "387575305969086464",
+        "name": "🤝 | 创作互助小组",
+        "topic": "",
+        "parent_id": "387577396028514304",
+        "type": 0,
+        "position": 0,
+        "overwrite": [
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 3072,
+            "id": "387575305969086464",
+            "channel_id": "408537546662871040",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": 11,
+        "description": null,
+        "is_private": 1,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "408537665885962240",
+        "guild_id": "387575305969086464",
+        "name": "📮 | 频道问题反馈区",
+        "topic": "",
+        "parent_id": "408537622848208896",
+        "type": 0,
+        "position": 0,
+        "overwrite": [],
+        "pending_user_access": false,
+        "user_limit": 11,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": [
+          {
+            "368332684671320064": "机器人管理"
+          }
+        ],
+        "live_active": 0
+      },
+      {
+        "channel_id": "408537706230972416",
+        "guild_id": "387575305969086464",
+        "name": "📥 | 创作活动建议区",
+        "topic": "",
+        "parent_id": "408537622848208896",
+        "type": 0,
+        "position": 0,
+        "overwrite": [],
+        "pending_user_access": false,
+        "user_limit": 11,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "408886974632427520",
+        "guild_id": "387575305969086464",
+        "name": ">>创作者官方工作<<",
+        "topic": "",
+        "parent_id": "0",
+        "type": 0,
+        "position": 0,
+        "overwrite": [
+          {
+            "action_type": "user",
+            "allows": 0,
+            "deny": 0,
+            "id": "165396085370523648",
+            "channel_id": "408886974632427520",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 277032273,
+            "deny": 0,
+            "id": "360330261788884992",
+            "channel_id": "408886974632427520",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 140288,
+            "id": "387575305969086464",
+            "channel_id": "408886974632427520",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "387575306023612416",
+            "channel_id": "408886974632427520",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "402377484852527104",
+            "channel_id": "408886974632427520",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 0,
+            "deny": 0,
+            "id": "686414913882935296",
+            "channel_id": "408886974632427520",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": 10,
+        "description": null,
+        "is_private": 1,
+        "share_model": null,
+        "slow_mode": 300,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": [
+          {
+            "374546854160891904": "机器人管理"
+          },
+          {
+            "374546854160891904": "活动中心"
+          },
+          {
+            "222234839762337792": "投票"
+          },
+          {
+            "222234839762337792": "抽奖"
+          },
+          {
+            "237779111534133248": "角色兑换"
+          },
+          {
+            "237779111534133248": "服务器管家"
+          },
+          {
+            "399815960074125312": "有问题点这里"
+          },
+          {
+            "360330261788884992": "管理权限配置"
+          },
+          {
+            "360330261788884992": "消息审核配置"
+          },
+          {
+            "368332684671320064": "机器人管理"
+          }
+        ],
+        "live_active": 0
+      },
+      {
+        "channel_id": "412542794578526208",
+        "guild_id": "387575305969086464",
+        "name": ">>管理员专属频道<<",
+        "topic": "",
+        "parent_id": "0",
+        "type": 0,
+        "position": 0,
+        "overwrite": [
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 132096,
+            "id": "387575305969086464",
+            "channel_id": "412542794578526208",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 68672,
+            "deny": 0,
+            "id": "415057708459229184",
+            "channel_id": "412542794578526208",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 0,
+            "deny": 0,
+            "id": "491847469865746432",
+            "channel_id": "412542794578526208",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 0,
+            "deny": 0,
+            "id": "503798859060068352",
+            "channel_id": "412542794578526208",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": 10,
+        "description": null,
+        "is_private": 1,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "423049962700406784",
+        "guild_id": "387575305969086464",
+        "name": "🎊 | 福利掉落区",
+        "topic": "",
+        "parent_id": "423049088271908864",
+        "type": 0,
+        "position": 0,
+        "overwrite": [
+          {
+            "action_type": "role",
+            "allows": 66624,
+            "deny": 133377,
+            "id": "387575305969086464",
+            "channel_id": "423049962700406784",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 3072,
+            "deny": 0,
+            "id": "402377484852527104",
+            "channel_id": "423049962700406784",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": null,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "423356429177454592",
+        "guild_id": "387575305969086464",
+        "name": "💡 | 素材堆",
+        "topic": "",
+        "parent_id": "387577396028514304",
+        "type": 11,
+        "position": 6,
+        "overwrite": [
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 4096,
+            "id": "387575305969086464",
+            "channel_id": "423356429177454592",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 4096,
+            "deny": 0,
+            "id": "415057708459229184",
+            "channel_id": "423356429177454592",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": 13,
+        "description": null,
+        "is_private": 0,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      },
+      {
+        "channel_id": "733252671972425728",
+        "guild_id": "387575305969086464",
+        "name": "限时活动瓜分收集",
+        "topic": "",
+        "parent_id": "0",
+        "type": 0,
+        "position": 0,
+        "overwrite": [
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "244462834941952000",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "297724606138028034",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "324178610892046336",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 0,
+            "deny": 132096,
+            "id": "387575305969086464",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "415352349549133824",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "420811526287392768",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "424501627693563904",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "429646491473149952",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "436781172480016384",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "437165449428336640",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "438128727533027328",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "441888067461054464",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "443777557305753600",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "447196540755247104",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "447796279326539776",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "449273569088634880",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "454790151844249600",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "455521721517457408",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "458871065478021120",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "462263130303877120",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "472658820364361728",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "482725880641474560",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "485728475601551360",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "512137692461789184",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "518262858354909184",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "524083012049432576",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "529274975702863872",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "533604571143327744",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "537239608518635520",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "539441264719155200",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "565824294048083968",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "579941370543075328",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "584200822913880064",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "590544157228257280",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "592209076105367552",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "600939876996988928",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "606108203952234496",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "634322747438510080",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "636713456774791168",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "685793511798595584",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "710446234544222208",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "user",
+            "allows": 1024,
+            "deny": 0,
+            "id": "715465676185522176",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          },
+          {
+            "action_type": "role",
+            "allows": 1024,
+            "deny": 0,
+            "id": "733239501782376448",
+            "channel_id": "733252671972425728",
+            "guild_id": "387575305969086464"
+          }
+        ],
+        "pending_user_access": false,
+        "user_limit": null,
+        "description": null,
+        "is_private": 1,
+        "share_model": null,
+        "slow_mode": 0,
+        "announcement_mode": 0,
+        "announcement_menu": [],
+        "top_define": null,
+        "in_visible": 0,
+        "bot_setting_list": null,
+        "live_active": 0
+      }
+    ],
+    "roles": [
+      {
+        "role_id": "387575306023612416",
+        "permissions": 1086046025,
+        "name": "大管理员",
+        "color": -49024,
+        "position": 26,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "387582764725051394",
+        "permissions": 3776065,
+        "name": "Fanbook服务中心",
+        "color": 0,
+        "position": 17,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "136762723340914688"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "387582877497303040",
+        "permissions": 3776065,
+        "name": "运营助手",
+        "color": 0,
+        "position": 16,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "269376123454881792"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "387582962155134976",
+        "permissions": 272342609,
+        "name": "数据小熊猫",
+        "color": 0,
+        "position": 15,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "179509308331917312"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "387594122443096064",
+        "permissions": 3776065,
+        "name": "任务中心",
+        "color": 0,
+        "position": 14,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "387589165371359232"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "388200068173275136",
+        "permissions": 272342641,
+        "name": "任务中心机器人",
+        "color": 0,
+        "position": 13,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "374546854160891904"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "396177323512049664",
+        "permissions": 3776065,
+        "name": "🏃🏻正式作者🏃🏻",
+        "color": -11181859,
+        "position": 24,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "396249870094053376",
+        "permissions": 3776065,
+        "name": "跑酷投稿教程",
+        "color": 0,
+        "position": 12,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "396242801081188352"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "399817313534091264",
+        "permissions": 3776065,
+        "name": "创作者Q&A",
+        "color": 0,
+        "position": 11,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "399815960074125312"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "399871402368303104",
+        "permissions": 3776065,
+        "name": "💐新人作者💐",
+        "color": 0,
+        "position": 8,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "399871405119778816",
+        "permissions": 3776065,
+        "name": "🏡新人作者🏡",
+        "color": 0,
+        "position": 7,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "400195547895443456",
+        "permissions": 3776065,
+        "name": "梦幻投稿助手",
+        "color": 0,
+        "position": 10,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "400195056151035904"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "402377484852527104",
+        "permissions": 3522936691,
+        "name": "官方工作人员",
+        "color": -11181859,
+        "position": 27,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "405640931035840512",
+        "permissions": 3776065,
+        "name": "🍑新人作者🍑",
+        "color": 0,
+        "position": 5,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "405640937797058560",
+        "permissions": 3776065,
+        "name": "🈴新人作者🈴",
+        "color": 0,
+        "position": 6,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "411032231943864320",
+        "permissions": 3501964923,
+        "name": "创作者迎新学长",
+        "color": 0,
+        "position": 9,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "410994320368205824"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "415057708459229184",
+        "permissions": 2314976835,
+        "name": "管理员🔦",
+        "color": -23258,
+        "position": 25,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "416531682368159744",
+        "permissions": 3776065,
+        "name": "🏃🏻新手作者🏃🏻",
+        "color": -16340748,
+        "position": 22,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "433557164557074432",
+        "permissions": 3776065,
+        "name": "剪彩人",
+        "color": -45056,
+        "position": 19,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "451336076745768960",
+        "permissions": 8589672315,
+        "name": "频道主",
+        "color": -45056,
+        "position": 999,
+        "hoist": true,
+        "managed": null,
+        "tag": null,
+        "t": 4,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "451336076749963264",
+        "permissions": 8589672315,
+        "name": "高级管理员",
+        "color": -32473,
+        "position": 998,
+        "hoist": true,
+        "managed": null,
+        "tag": null,
+        "t": 3,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "451336076749963266",
+        "permissions": 7247494979,
+        "name": "管理员",
+        "color": -23258,
+        "position": 997,
+        "hoist": true,
+        "managed": null,
+        "tag": null,
+        "t": 2,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "454181984395345922",
+        "permissions": 3776065,
+        "name": "机器人",
+        "color": 0,
+        "position": 301,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "454180438270038016"
+        },
+        "t": 1,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "454181987692068868",
+        "permissions": 8,
+        "name": "创作者小喇叭",
+        "color": 0,
+        "position": 302,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "454180438270038016"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "463650755426123776",
+        "permissions": 3907137,
+        "name": "成语接龙机器人",
+        "color": 0,
+        "position": 304,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "337497635000680448"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "463657928986198016",
+        "permissions": 3915329,
+        "name": "俄罗斯方块人",
+        "color": 0,
+        "position": 305,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "273383374205222914"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "463665265801166848",
+        "permissions": 3522936691,
+        "name": "服务器管家",
+        "color": 0,
+        "position": 306,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "237779111534133248"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "463680970718183424",
+        "permissions": 272350801,
+        "name": "活动机器人",
+        "color": 0,
+        "position": 307,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "222234839762337792"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "463683346640404482",
+        "permissions": 2436611667,
+        "name": "积分任务机器人",
+        "color": 0,
+        "position": 308,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "368332684671320064"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "463696845055721472",
+        "permissions": 8,
+        "name": "欢迎机器人",
+        "color": 0,
+        "position": 309,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "256899212615090176"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "464354175636209664",
+        "permissions": 2428091969,
+        "name": "消息审核小助理",
+        "color": 0,
+        "position": 310,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "360330261788884992"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "466123864460877824",
+        "permissions": 3776065,
+        "name": "官方直播特邀作者专属",
+        "color": -6776577,
+        "position": 4,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "507486120452669440",
+        "permissions": 272350787,
+        "name": "ChatGPT",
+        "color": 0,
+        "position": 311,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "337422812224421888"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "519351905546514432",
+        "permissions": 3776065,
+        "name": "地铁商城",
+        "color": 0,
+        "position": 312,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "519351836726382592"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "519353153888841728",
+        "permissions": 3776065,
+        "name": "创作者中心Q&A",
+        "color": 0,
+        "position": 313,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "519353085223882752"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "519752384592064512",
+        "permissions": 3776065,
+        "name": "如何加入作者团",
+        "color": 0,
+        "position": 314,
+        "hoist": true,
+        "managed": true,
+        "tag": {
+          "bot_id": "519751358057132032"
+        },
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "522653657242796032",
+        "permissions": 540646977,
+        "name": "频道管理员",
+        "color": -11008,
+        "position": 996,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 5,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "522653657246990336",
+        "permissions": 3743233,
+        "name": "普通成员",
+        "color": -6051649,
+        "position": 0,
+        "hoist": true,
+        "managed": null,
+        "tag": null,
+        "t": 6,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "524898883181334528",
+        "permissions": 0,
+        "name": "💐家族正式作者💐",
+        "color": -16276715,
+        "position": 21,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "524899846856241152",
+        "permissions": 0,
+        "name": "💐家族见习作者💐",
+        "color": -10093985,
+        "position": 20,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "529644165525786624",
+        "permissions": 0,
+        "name": "🏃🏻新人作者🏃🏻",
+        "color": -6051649,
+        "position": 18,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "697716682856456192",
+        "permissions": 0,
+        "name": "🏃🏻新星作者🏃🏻",
+        "color": -15501838,
+        "position": 23,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      },
+      {
+        "role_id": "733239501782376448",
+        "permissions": 0,
+        "name": "限时活动抽奖",
+        "color": -49024,
+        "position": 1,
+        "hoist": false,
+        "managed": null,
+        "tag": null,
+        "t": 0,
+        "group_id": null,
+        "sort": 0
+      }
+    ],
+    "userRoles": [
+      "522653657246990336"
+    ],
+    "guest_permissions": 66560,
+    "role_groups": [],
+    "calendar_channel_id": "520217069027852288",
+    "circle": {
+      "name": "Fanbook创作者中心",
+      "icon": null,
+      "description": "优质作品展示",
+      "banner": null,
+      "channel_id": "387575306023600134"
+    },
+    "announce": {
+      "name": "公告",
+      "channel_id": "590115578631421952"
+    },
+    "sign": "c441bb0435b3fd1d0153ae0de3bf693a2a968a2ea8a39c2b4230258947d7a4e839c85f7e9a9dd5855546e6c4db1e369f26347df9da328cb04cf4bb5112610e1541f51ceefa3067658aaab0ed4066675f63c8da7f378cfc84fc60d450465b2c9b7cb4d0ca222416b29e1021771ae8f44229fb823fbfbde34a52b308e1b661fa5428625502b6069c0c3dbafeeabb04cfd6f8f994fc262fc920e76ff64285385d54d6c73ef02cdbecf619d4ca282db53c05590c301ad9367dd98357075742c728b41d9ced67673db88e957a531b194d5e42",
+    "guild_circle_view": 0,
+    "tags": [],
+    "guild_circle_comment": 0,
+    "guild_note_channel_id": "3156103463"
+  }}

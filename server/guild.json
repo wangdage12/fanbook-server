@@ -1,0 +1,157 @@
+{"100001":{
+      "guild_id": "100001",
+      "name": "test",
+      "description": "",
+      "icon": "https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/a9d18ca46e82db253666deb8d838729c.png",
+      "owner_id": "413708423440367616",
+      "authenticate": 0,
+      "authenticate_params": [],
+      "banner": "https://fb-cdn.fanbook.mobi/fanbook/app/files/chatroom/image/f32511061112565a7e2a4491a7f7e3a1.jpg",
+      "member_count": "1708",
+      "feature_list": [],
+      "welcome": [
+        "473786768102375424",
+        "508652511096594432"
+      ],
+      "welcome_switch": "1",
+      "circle_display": "1",
+      "verification_parameters": "",
+      "vanity_url_code": "",
+      "vanity_url_status": 0,
+      "admin_permission": "384",
+      "system_channel_id": "",
+      "system_channel_message": "{\"type\":\"richText\",\"v2\":\"[{\\\"insert\\\":\\\"感谢 \\\"},{\\\"insert\\\":\\\"@{429086076850667520:user.id}\\\",\\\"attributes\\\":{\\\"at\\\":\\\"user.id\\\",\\\"atGuildId\\\":\\\"429086076850667520\\\"}},{\\\"insert\\\":\\\" 加入 DevOpen 官方！你是今日第【\\\"},{\\\"insert\\\":\\\"user.count\\\",\\\"attributes\\\":{\\\"placeholder\\\":{\\\"content\\\":\\\"user.count\\\",\\\"color\\\":\\\"0xffffffff\\\"}}},{\\\"insert\\\":\\\"】加入我们的幸运用户呢！下面请了解以下内容。\\\\n\\\\n\\\"},{\\\"insert\\\":\\\" #📣〖资讯〗『公告新闻』 \\\",\\\"attributes\\\":{\\\"channel\\\":\\\"473103465447800832\\\"}},{\\\"insert\\\":\\\"- 最新通知这里见\\\\n\\\"},{\\\"insert\\\":\\\" #🎁〖积分〗『签到得分』 \\\",\\\"attributes\\\":{\\\"channel\\\":\\\"473106188457074688\\\"}},{\\\"insert\\\":\\\"- 签到得分领福利\\\\n\\\"},{\\\"insert\\\":\\\" #💬〖讨论〗『叽叽喳喳』👈闲唠来这里～ \\\",\\\"attributes\\\":{\\\"channel\\\":\\\"477430874758295552\\\"}},{\\\"insert\\\":\\\"- 闲聊吹水勿忘记\\\"}]\",\"title\":\"欢迎新成员\",\"v\":2}",
+      "system_channel_message_pic": "",
+      "system_channel_flags": 1,
+      "system_channel_type": 1,
+      "verification_level": 1,
+      "verification_auto_remove": 0,
+      "normal_role_id": "523066131309920256",
+      "normal_permission": "3743233",
+      "activity_calendar": 0,
+      "colling_time": 0,
+      "banner_config": {
+        "banner_default": "https://fb-cdn.fanbook.mobi/fanbook/app/web/images/2022/20220106/1641452169-603495.jpg",
+        "banner_static": "https://fb-cdn.fanbook.mobi/fanbook/app/files/chatroom/image/f32511061112565a7e2a4491a7f7e3a1.jpg",
+        "banner_dynamic": null,
+        "banner_use": 1
+      },
+      "joined_at": "2022-11-04 09:23:00",
+      "assist_display": 0,
+      "icon_dynamic": {
+        "link_default": "https://fb-cdn.fanbook.cn/fanbook/app/files/chatroom/image/34f403945f5757e8a152ea8f3576b3c6.jpg",
+        "used": 0
+      },
+      "template_id": 0,
+      "is_private": 1,
+      "announce_display": 1,
+      "notification_channel_id": "429086076938747907",
+      "memberNum": 1145,
+      "join": false,
+      "channels": [
+        {
+            "channel_id": "387575306023600130",
+            "guild_id": "387575305969086464",
+            "name": "【迎新】✨欢迎大佬✨",
+            "topic": "被你发现了，欢迎加入哇~",
+            "parent_id": "399852648250998784",
+            "type": 0,
+            "position": 2,
+            "overwrite": [
+              {
+                "action_type": "role",
+                "allows": 0,
+                "deny": 2048,
+                "id": "387575305969086464",
+                "channel_id": "387575306023600130",
+                "guild_id": "387575305969086464"
+              },
+              {
+                "action_type": "role",
+                "allows": 276825361,
+                "deny": 0,
+                "id": "387594122443096064",
+                "channel_id": "387575306023600130",
+                "guild_id": "387575305969086464"
+              },
+              {
+                "action_type": "role",
+                "allows": 1024,
+                "deny": 0,
+                "id": "388200068173275136",
+                "channel_id": "387575306023600130",
+                "guild_id": "387575305969086464"
+              },
+              {
+                "action_type": "role",
+                "allows": 0,
+                "deny": 2048,
+                "id": "402377484852527104",
+                "channel_id": "387575306023600130",
+                "guild_id": "387575305969086464"
+              },
+              {
+                "action_type": "role",
+                "allows": 277032273,
+                "deny": 0,
+                "id": "411032231943864320",
+                "channel_id": "387575306023600130",
+                "guild_id": "387575305969086464"
+              }
+            ],
+            "pending_user_access": true,
+            "user_limit": 10,
+            "description": null,
+            "is_private": 0,
+            "share_model": null,
+            "slow_mode": 0,
+            "announcement_mode": 0,
+            "announcement_menu": [],
+            "top_define": null,
+            "in_visible": 0,
+            "bot_setting_list": null,
+            "live_active": 0
+          }
+      ],
+      "user_pending": true,
+      "bot_list": [
+        "470565570434412544"
+      ],
+      "is_new_permission": 1,
+      "verification_remove_time": 0,
+      "post_reward": 0,
+      "upload_files": 0,
+      "post_multi_para": 0,
+      "related_application": 0,
+      "related_application_list": [],
+      "guild_search_config": 0,
+      "guild_search_allow": 0,
+      "guild_live_allow": 0,
+      "guild_circle_visible": 0,
+      "guild_circle_view": 0,
+      "guild_circle_comment": 0,
+      "guild_set_banner": 0,
+      "sign": "c441bb0435b3fd1d0153ae0de3bf693a2a968a2ea8a39c2b4230258947d7a4e839c85f7e9a9dd5855546e6c4db1e369f26347df9da328cb04cf4bb5112610e1541f51ceefa3067658aaab0ed4066675f63c8da7f378cfc84fc60d450465b2c9b7cb4d0ca222416b29e1021771ae8f442de94c119638cb88a65ab881ace91181a95eb222c4f3125d6a43d474550f0d3a841992968ac115c269cff4ec945978af0fcb03c2a31ba57ae750403eaf7a72b72e8ec6c73732289460c179d9a8cf80b242c621247caf798b8ddd284dfde0dd639",
+      "calendar_channel_id": "",
+      "hierarchy": 0,
+      "point": 0,
+      "tags": [
+        {
+          "id": 3,
+          "name": "前沿技术",
+          "level": 0,
+          "item": [
+            {
+              "id": 23,
+              "name": "AIGC",
+              "level": 1,
+              "item": [],
+              "item_num": 0
+            }
+          ],
+          "item_num": 1
+        }
+      ]
+    }
+  }
+  

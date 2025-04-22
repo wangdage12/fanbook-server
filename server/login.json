@@ -1,0 +1,23 @@
+{
+    "8jUB8jUB8jUB8jU=": {
+        "admin_role_id": "",
+        "user_id": "513621760122671104",
+        "avatar": "https://fb-cdn.fanbook.mobi/fanbook/app/files/service/headImage/529a2573796da9983810f67aa1230cd0",
+        "avatar_nft": "",
+        "username": "14211359",
+        "mobile": "",
+        "encryption_mobile": "",
+        "joined_at": 1687679858294,
+        "email": null,
+        "gender": 1,
+        "presence_status": 1,
+        "discriminator": "12956140",
+        "nickname": "wdgTest",
+        "ban_type": 0,
+        "level": 0,
+        "integral": 0,
+        "sign": "c912b6f823d925c25d14e8855c04ef5be015aa27e02f8a2e7e3d02e39aa0e2a01346bc3847381aec08941428979513b9db08bf9b8abea4d53e63d11b759949834a35b0822b64f055ad52f6ecd0878a22176156e44e200bfbdfeaf13d3eb7caf0059d328f80b3de15659ad92c531565e9b57f4df88bcb973bcd067c43ac9866860bbd2c5ea2079b460ab079f30c3b70cd4df5ff8b5cbefa0e449e878a6af68fb4",
+        "expire_time": 1746079988,
+        "area_code": 86
+      }
+}

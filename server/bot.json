@@ -1,0 +1,63 @@
+{"data":[
+    {
+        "bot_id": "448828939389894656",
+        "owner_id": "389320179948986368",
+        "username": "3788983",
+        "bot_name": "WDG Test Bot",
+        "bot_description": "Test bot\n注意：该bot可以由其他人控制发送消息，请注意核实消息真实性，请管理好权限\n包含未发布的功能测试和服务器临时任务",
+        "bot_about": "",
+        "bot_avatar": "https://fanbook-gamescluster-1251001060.cos.ap-shanghai.myqcloud.com/open-fanbook/pro/BotAvatar-f3e565562c73c167ed68278e325fa522.png?v=1672232022000",
+        "commands": [
+          {
+            "command_id": "699971903300964352",
+            "command": "发送消息",
+            "description": "发送消息通知",
+            "visible_level": 2,
+            "select_parameters": [],
+            "form_parameters": [],
+            "hide": false,
+            "clickable": true,
+            "url": "https://124.221.67.43/botmsg1/?view=0"
+          },
+          {
+            "command_id": "701705749973307392",
+            "command": "举报消息",
+            "description": "若该机器人发送了违规消息，请立即点此举报",
+            "visible_level": 0,
+            "select_parameters": [],
+            "form_parameters": [],
+            "hide": false,
+            "clickable": true,
+            "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__mN1mWpUMVo0SzUxS0haSE41UjdESE5URk9TVjNEVy4u&view=0"
+          },
+          {
+            "command_id": "701984997338386432",
+            "command": "服务可用情况",
+            "description": "查看服务可用情况页面",
+            "visible_level": 0,
+            "select_parameters": [],
+            "form_parameters": [],
+            "hide": false,
+            "clickable": true,
+            "url": "https://stats.uptimerobot.com/VzApKu2pz1?view=0"
+          }
+        ],
+        "bot_permissions": 3522903931,
+        "bot_class": 1,
+        "bot_token": null,
+        "enable_inline_mode": false,
+        "enable_inline_geo": false,
+        "join_group_allowed": false,
+        "enable_group_privacy_mode": true,
+        "market": true,
+        "guilds": [
+          "443239856793976832",
+          "419488146749652992",
+          "481284339397947392",
+          "519095044859609088"
+        ],
+        "created_at": 1673530195,
+        "updated_at": 1740810163
+      }
+  ]
+}

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    
+
+    <meta charset="UTF-8" >
+    
+    <link rel="icon" type="image/x-icon" href="https://fanbook.cn/image/favicon.ico" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <title>Fanbook</title>
+    <!-- 腾讯云验证码 -->
+    <script src="https://turing.captcha.qcloud.com/TCaptcha.js"></script>
+    <script>
+      window.__dynamic_base__ = window.__dynamic_base__ || ''
+    </script>
+    
+    
+    
+    
+    
+    
+    <script>
+(function(){
+var preloads = [{"parentTagName":"head","tagName":"script","attrs":{"type":"module","crossorigin":"","src":"/assets/polyfills-DW-3o1Cu.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"stylesheet","href":"/css/reset.css","data-id":"reset"}},{"parentTagName":"head","tagName":"script","attrs":{"type":"module","crossorigin":"","src":"/assets/index-BqQCRxQS.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/react-vendor-0oQ6VE-n.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/web-component-B1GRHp9g.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"modulepreload","crossorigin":"","href":"/assets/library-C_xBo1Ac.js"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"stylesheet","crossorigin":"","href":"/assets/web-component-C_9oVvoR.css"}},{"parentTagName":"head","tagName":"link","attrs":{"rel":"stylesheet","crossorigin":"","href":"/assets/index-Y1G7ygBC.css"}}];
+function setAttribute(target, attrs) {
+for (var key in attrs) {
+  target.setAttribute(key, attrs[key]);
+}
+return target;
+};
+for(var i = 0; i < preloads.length; i++){
+var item = preloads[i]
+var childNode = document.createElement(item.tagName);
+setAttribute(childNode, item.attrs)
+if( window.__dynamic_base__) {
+  if(item.tagName == 'link') {
+    setAttribute(childNode, { href:  window.__dynamic_base__ + item.attrs.href })
+  } else if (item.tagName == 'script') {
+    setAttribute(childNode, { src:  window.__dynamic_base__ + item.attrs.src })
+  }
+}
+document.getElementsByTagName(item.parentTagName)[0].appendChild(childNode);
+}
+})();
+</script>
+</head>
+
+
+  <body class="light">
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script src="https://fb-cdn.fanbook.mobi/fanbook-mobi/js/smsdk.js"></script>
+    <script src="https://web-cdn.fanbook.cn/icons/icons_27281_225.ff6f04d57aa15fe2bd680ea8123051a5.js"></script>
+    <script type="text/javascript" charset="utf-8" src="https://res.cdn.openinstall.io/openinstall.js" defer></script>
+  </body>
+</html>
